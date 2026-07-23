@@ -1,2 +1,2 @@
-# repo-api
-API service repo
+# Repository README
+This is a sample repository.
